@@ -1,2 +1,2 @@
 Url=http://104.199.204.78/KZINGBaccarat/
-JPushKey=hfjfjyfyyf
+JPushKey=28fb912d6e19fe751c49ec6f
