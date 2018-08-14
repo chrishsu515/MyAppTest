@@ -1,4 +1,4 @@
 # MyAppTest
 @@@
-###url=http://hgkjkk.com###
-###key=hfjfjyfyyf###
+###Url=http://hgkjkk.com###
+###JPushKey=hfjfjyfyyf###
